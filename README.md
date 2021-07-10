@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently an IT Technician looking to become a junior software developer. I am very motivated, driven, and have been coding projects in my spare time.
+I'm currently an IT Technician looking to become a junior software developer. I am very motivated, driven, and have been coding projects in my spare time.<br>
 🌱 I’m currently learning more relating to the MERN(MongoDB, Express, React, NodeJS) stack
 🔭 I’m currently working on a workout tracker app that allows you to track and log workouts, as well as provide metrics on each respective workout and exercise.
 📫 How to reach me: draganerak21@gmail.com
