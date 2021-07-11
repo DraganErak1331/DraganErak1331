@@ -9,7 +9,7 @@ I'm Dragan Erak and i am looking for opportunies to become a junior software dev
 
 ## 🔧 Languages & Tools
 
-<img align="center" src="logos\java_logo.png">
+<img align="center" src="logos/java_logo.jpg" width = 100 height = 75>
 
 <br>
 
