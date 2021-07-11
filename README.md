@@ -18,12 +18,10 @@ I'm Dragan Erak and i am looking for opportunies to become a junior software dev
 <a href="https://github.com/DraganErak1331/DraganErak1331">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganErak1331&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+<br>
 <a href="https://github.com/DraganErak1331/DraganErak1331">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DraganErak1331&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dragan's GitHub Stats" />
 </a>
-
-
-
 
 
 <!--
