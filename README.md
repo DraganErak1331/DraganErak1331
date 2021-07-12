@@ -9,8 +9,11 @@ I'm Dragan Erak and i am looking for opportunies to become a junior software dev
 
 ## 🔧 Languages & Tools
 
-<img align="center" src="logos/java_logo.jpg" width = 100 height = 75>
+# <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"/>
 
+# <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
+
+# <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/> <img alt="medium" height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"/>
 <br>
 
 ## &#x1f4c8; GitHub Stats
