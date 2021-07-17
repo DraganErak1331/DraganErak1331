@@ -2,7 +2,7 @@
 
 I'm Dragan Erak, a computer science graduate, and i am looking for opportunies to become a junior software developer. I am very motivated, driven, and have been coding projects in my spare time.<br>
 🌱 I’m currently learning more relating to the MERN(MongoDB, Express, React, NodeJS) stack.<br>
-🔭 I’m currently working on a workout tracker app that allows you to track and log workouts, as well as provide metrics on each respective workout and exercise.<br>
+🔭 I’m currently working on a Todo List app that allows you to add and keep track of todo list items.<br>
 📫 How to reach me: draganerak21@gmail.com
 
 <br>
