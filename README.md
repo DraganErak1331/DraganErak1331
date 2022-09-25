@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I'm Dragan Erak, a computer science graduate, and i am looking for opportunies to become a junior software developer. I am very motivated, driven, and have been coding projects in my spare time.<br>
-🌱 I’m currently learning more relating to .Net Core.<br>
-🔭 I’m currently working on a Todo List app that allows you to add and keep track of todo list items.<br>
+🌱 I’m currently learning more relating to Spring Boot.<br>
+🔭 I’m currently working on an Exercise Tracker app that allows you to add and keep track of exercise logs.<br>
 📫 How to reach me: draganerak21@gmail.com
 
 <br>
